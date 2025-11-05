@@ -24,7 +24,6 @@ Each folder contains well-organized Java programs that demonstrate key concepts.
 | 🧱 *OOP Concepts* | Classes, Objects, Inheritance, Polymorphism, Encapsulation |
 | ⚠ *Exception Handling* | Try-Catch, Finally, Throw & Throws |
 | 📁 *File Handling* | Reading and writing files |
-| 🧠 *Advanced (Coming Soon)* | Collections, Threads, GUI, and more! |
 
 ---
 
